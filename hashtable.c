@@ -1,10 +1,3 @@
-//
-//  hashtable.c
-//  hashtable
-//
-//  Created by William McCarthy on 154//20.
-//  Copyright © 2020 William McCarthy. All rights reserved.
-//
 
 #include <stdio.h>
 #include <string.h>
